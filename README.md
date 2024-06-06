@@ -5,11 +5,11 @@
 -------
 🚀 Technologies
 
-. HTML
-. CSS
-. Grid
-. Animation 
-. transformation
+* HTML
+* CSS
+* Grid
+* Animation 
+* transformation
 
 ------
 💻 About
